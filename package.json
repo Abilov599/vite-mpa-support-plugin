@@ -1,0 +1,15 @@
+{
+  "name": "vite-plugin-mpa-support",
+  "version": "1.0.0",
+  "description": "This plugin enables Vite to build multi-page applications (MPA)",
+  "main": "index.js",
+  "keywords": [
+    "vite",
+    "plugin",
+    "mpa",
+    "multi-page",
+    "application"
+  ],
+  "author": "Jeyhun Abilov",
+  "license": "ISC"
+}
