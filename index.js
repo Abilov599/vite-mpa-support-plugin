@@ -15,7 +15,7 @@ function findHTMLFiles(directory = "./") {
 
 function mpaPlugin(directory = "./") {
   return {
-    name: "vite-plugin-mpa-support",
+    name: "vite-mpa-support-plugin",
     configResolved(config) {
       if (config.command === "build") {
         const entryPoints = findHTMLFiles(directory);
