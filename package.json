@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This plugin enables Vite to build multi-page applications (MPA)",
   "main": "index.js",
+  "type": "module",
   "keywords": [
     "vite",
     "plugin",
